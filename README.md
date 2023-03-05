@@ -15,3 +15,4 @@
 </div>
 
   
+![Snake animation](https://github.com/ApollolabsBR/ApollolabsBR/blob/output/github-contribution-grid-snake.svg)
